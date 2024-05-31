@@ -1,0 +1,13 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libtoml-07569d97e43a8efd.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/map.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/value.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/de.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/ser.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/macros.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/edit.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/fmt.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/table.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/toml-07569d97e43a8efd.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/map.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/value.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/de.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/ser.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/macros.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/edit.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/fmt.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/table.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/map.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/value.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/de.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/ser.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/macros.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/edit.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/fmt.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/toml-0.8.13/src/table.rs:

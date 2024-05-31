@@ -1,0 +1,9 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libspl_tlv_account_resolution-1c1ef09bf9ae5d4a.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/account.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/error.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/seeds.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/state.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/spl_tlv_account_resolution-1c1ef09bf9ae5d4a.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/account.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/error.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/seeds.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/state.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/account.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/error.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/seeds.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-tlv-account-resolution-0.5.2/src/state.rs:

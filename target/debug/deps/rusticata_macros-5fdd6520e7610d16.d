@@ -1,0 +1,9 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/librusticata_macros-5fdd6520e7610d16.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/combinator.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/debug.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/macros.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/traits.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/rusticata_macros-5fdd6520e7610d16.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/combinator.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/debug.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/macros.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/traits.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/combinator.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/debug.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/macros.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rusticata-macros-4.1.0/src/traits.rs:

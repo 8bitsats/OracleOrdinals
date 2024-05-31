@@ -1,0 +1,12 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libheck-1182f8403172413f.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/camel.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/kebab.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/mixed.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/shouty_kebab.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/shouty_snake.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/snake.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/title.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/heck-1182f8403172413f.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/camel.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/kebab.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/mixed.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/shouty_kebab.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/shouty_snake.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/snake.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/title.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/camel.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/kebab.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/mixed.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/shouty_kebab.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/shouty_snake.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/snake.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/heck-0.3.3/src/title.rs:

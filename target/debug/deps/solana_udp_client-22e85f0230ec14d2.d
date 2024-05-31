@@ -1,0 +1,8 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libsolana_udp_client-22e85f0230ec14d2.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/nonblocking/mod.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/nonblocking/udp_client.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/udp_client.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/solana_udp_client-22e85f0230ec14d2.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/nonblocking/mod.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/nonblocking/udp_client.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/udp_client.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/nonblocking/mod.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/nonblocking/udp_client.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-udp-client-1.18.15/src/udp_client.rs:

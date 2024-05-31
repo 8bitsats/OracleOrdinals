@@ -1,0 +1,10 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libnum_bigint-22d9db1e33bf2556.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/macros.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/bigint.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/biguint.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/algorithms.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/monty.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/num_bigint-22d9db1e33bf2556.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/macros.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/bigint.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/biguint.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/algorithms.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/monty.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/macros.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/bigint.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/biguint.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/algorithms.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/num-bigint-0.2.6/src/monty.rs:

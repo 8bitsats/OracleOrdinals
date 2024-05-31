@@ -1,0 +1,8 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libsolana_quic_client-1e401ef6610199ce.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/nonblocking/mod.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/nonblocking/quic_client.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/quic_client.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/solana_quic_client-1e401ef6610199ce.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/nonblocking/mod.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/nonblocking/quic_client.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/quic_client.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/nonblocking/mod.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/nonblocking/quic_client.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-quic-client-1.18.15/src/quic_client.rs:

@@ -1,0 +1,10 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libspl_token-f6dbabb3ad7c7c8a.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/error.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/instruction.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/native_mint.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/processor.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/state.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/spl_token-f6dbabb3ad7c7c8a.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/error.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/instruction.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/native_mint.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/processor.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/state.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/error.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/instruction.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/native_mint.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/processor.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-token-4.0.0/src/state.rs:

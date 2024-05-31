@@ -1,0 +1,10 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/librtoolbox-aba804274cc9e70f.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/atty.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/fix_line_issues.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/print_tty.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_string.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_vec.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/rtoolbox-aba804274cc9e70f.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/atty.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/fix_line_issues.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/print_tty.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_string.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_vec.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/atty.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/fix_line_issues.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/print_tty.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_string.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rtoolbox-0.0.2/src/safe_vec.rs:

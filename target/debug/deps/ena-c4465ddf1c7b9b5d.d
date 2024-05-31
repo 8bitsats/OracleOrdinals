@@ -1,0 +1,11 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libena-c4465ddf1c7b9b5d.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/snapshot_vec.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/undo_log.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/unify/mod.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/unify/backing_vec.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libena-c4465ddf1c7b9b5d.rlib: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/snapshot_vec.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/undo_log.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/unify/mod.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/unify/backing_vec.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/ena-c4465ddf1c7b9b5d.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/snapshot_vec.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/undo_log.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/unify/mod.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/unify/backing_vec.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/snapshot_vec.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/undo_log.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/unify/mod.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ena-0.14.3/src/unify/backing_vec.rs:

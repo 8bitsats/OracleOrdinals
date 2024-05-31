@@ -2,19 +2,11 @@
 name = "cross_chain_oracle"
 version = "0.1.0"
 description = "Created with Anchor"
-edition = "2018"
 
 [lib]
-crate-type = ["cdylib", "lib"]
-name = "cross_chain_oracle"
-
-[features]
-no-entrypoint = []
-no-idl = []
-no-log-ix-name = []
-cpi = ["no-entrypoint"]
-default = []
+crate-type = ["cdylib"]
 
 [dependencies]
-anchor-lang = "0.30.0"
-
+anchor-cli = "0.30.0"
+solana-program = "1.8.0"
+sha2 = "0.10.8"

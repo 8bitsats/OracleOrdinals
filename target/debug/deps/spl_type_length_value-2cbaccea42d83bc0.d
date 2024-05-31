@@ -1,0 +1,9 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libspl_type_length_value-2cbaccea42d83bc0.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/error.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/length.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/state.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/variable_len_pack.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/spl_type_length_value-2cbaccea42d83bc0.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/error.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/length.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/state.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/variable_len_pack.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/error.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/length.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/state.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/spl-type-length-value-0.3.1/src/variable_len_pack.rs:

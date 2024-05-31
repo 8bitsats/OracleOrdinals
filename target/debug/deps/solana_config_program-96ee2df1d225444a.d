@@ -1,0 +1,8 @@
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/libsolana_config_program-96ee2df1d225444a.rmeta: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/config_instruction.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/config_processor.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/date_instruction.rs
+
+/Users/ordlibrary/OracleOrdinals/target/debug/deps/solana_config_program-96ee2df1d225444a.d: /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/lib.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/config_instruction.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/config_processor.rs /Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/date_instruction.rs
+
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/lib.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/config_instruction.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/config_processor.rs:
+/Users/ordlibrary/.cargo/registry/src/index.crates.io-6f17d22bba15001f/solana-config-program-1.18.15/src/date_instruction.rs:
